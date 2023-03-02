@@ -6,4 +6,4 @@ Este es un repositorio
 2. Villela
 3. Alonso
 
-[GitHub] (htpp://github.com)
+[GitHub](htpps://github.com)
